@@ -1,7 +1,7 @@
 import random
 
 cuvinte = ['python', 'masina', 'apa', 'tastatura', 'paine', 'sunet', 'palindrom', 'nor', 'ploaie', 'vreme', 'fericire',
-           'albastru', 'verde','rosu', 'verde', 'gri', 'calculator', 'laptop', 'medicina', 'aviatie', 'avion', 'planor',
+           'albastru','rosu', 'verde', 'gri', 'calculator', 'laptop', 'medicina', 'aviatie', 'avion', 'planor',
            'ubicuitate']
 
 
